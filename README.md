@@ -16,9 +16,9 @@ Advanced regression Assignment - House Pricing M0del
 ## Conclusions
 - We have created a model using ridge regression to predict price of houses. 
 - The features that very important for  the prediction are found to be 
-    GrLivArea: Above grade (ground) living area square feet 
-    OverallQual: Rates the overall material and finish of the house 
-    PropAge: Age of the property
+    - GrLivArea: Above grade (ground) living area square feet 
+    - OverallQual: Rates the overall material and finish of the house 
+    - PropAge: Age of the property
 
 ## Technologies Used
 - Python 3
